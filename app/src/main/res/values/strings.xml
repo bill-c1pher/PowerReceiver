@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PowerReceiver</string>
+    <string name="charger_connect_disconnect_prompt">Try connecting/disconnecting your charger.</string>
+</resources>
